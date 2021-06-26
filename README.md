@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img alt="Mobile Application Demo" src="https://github.com/isabelamoraes/nlw_together/blob/main/demo/gameplay.gif?raw=true" width="100%">
+  <img alt="Mobile Application Demo" src="https://github.com/isabelamoraes/nlw_together/blob/main/demo/gameplay.gif?raw=true" width="60%">
 </p>
 
 ## Features
